@@ -1,0 +1,13 @@
+# Ignore parent directory files
+../*
+
+# Allow only acara-informatika-2026 folder contents
+!../acara-informatika-2026/
+
+# General ignores
+*.pyc
+*.log
+__pycache__/
+.DS_Store
+*.swp
+*~
